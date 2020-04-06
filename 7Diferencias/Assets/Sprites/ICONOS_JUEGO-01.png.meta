@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: b5994422411a530469b38ce1b4c53ba4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2361496900877586442
+    second: ICONOS_JUEGO-01_0
+  - first:
+      213: -7082666560899550029
+    second: ICONOS_JUEGO-01_1
+  - first:
+      213: -6528740597293926422
+    second: ICONOS_JUEGO-01_5
+  - first:
+      213: 9095931934923712032
+    second: ICONOS_JUEGO-01_6
+  - first:
+      213: -8248259227743078343
+    second: ICONOS_JUEGO-01_10
+  - first:
+      213: -4379306735562520012
+    second: ICONOS_JUEGO-01_11
+  - first:
+      213: -7130998807651879951
+    second: ICONOS_JUEGO-01_15
+  - first:
+      213: -2969653441198280879
+    second: ICONOS_JUEGO-01_16
+  - first:
+      213: -947459204960650038
+    second: ICONOS_JUEGO-01_20
+  - first:
+      213: 1971940443766070715
+    second: ICONOS_JUEGO-01_21
+  - first:
+      213: 4787560420742352205
+    second: ICONOS_JUEGO-01_22
+  - first:
+      213: 3234424074837002023
+    second: ICONOS_JUEGO-01_23
+  - first:
+      213: 5887653180497792040
+    second: ICONOS_JUEGO-01_24
+  - first:
+      213: 8723278985841590698
+    second: ICONOS_JUEGO-01_25
+  - first:
+      213: -8850701194045449039
+    second: ICONOS_JUEGO-01_26
+  - first:
+      213: 5260335900315695599
+    second: ICONOS_JUEGO-01_27
+  - first:
+      213: 4132529602067710573
+    second: ICONOS_JUEGO-01_28
+  - first:
+      213: 2159727149338508600
+    second: ICONOS_JUEGO-01_29
+  - first:
+      213: -1311651899779930071
+    second: ICONOS_JUEGO-01_30
+  - first:
+      213: 3616540648733957413
+    second: ICONOS_JUEGO-01_31
+  - first:
+      213: 741518249551260459
+    second: ICONOS_JUEGO-01_32
+  - first:
+      213: 32789456461776036
+    second: ICONOS_JUEGO-01_33
+  - first:
+      213: 66501426564887696
+    second: ICONOS_JUEGO-01_34
+  - first:
+      213: 2611443656902130506
+    second: ICONOS_JUEGO-01_35
+  - first:
+      213: 4749176858175181575
+    second: ICONOS_JUEGO-01_36
+  - first:
+      213: -3960032401962654475
+    second: ICONOS_JUEGO-01_37
+  - first:
+      213: 1155735515986778629
+    second: ICONOS_JUEGO-01_38
+  - first:
+      213: 7873361123014793458
+    second: ICONOS_JUEGO-01_39
+  - first:
+      213: -5606084420698337593
+    second: ICONOS_JUEGO-01_40
+  - first:
+      213: -1272018098447095247
+    second: ICONOS_JUEGO-01_41
+  - first:
+      213: -6708724785554458819
+    second: ICONOS_JUEGO-01_42
+  - first:
+      213: 6824877384905990536
+    second: ICONOS_JUEGO-01_43
+  - first:
+      213: 5781019191834367122
+    second: ICONOS_JUEGO-01_44
+  - first:
+      213: -5675408168053702557
+    second: ICONOS_JUEGO-01_2
+  - first:
+      213: 9157943942901938097
+    second: ICONOS_JUEGO-01_3
+  - first:
+      213: -7674912331846358115
+    second: ICONOS_JUEGO-01_4
+  - first:
+      213: 1223590373393721965
+    second: ICONOS_JUEGO-01_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1875
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521d3e4ffa50974eb2dfac62fc398b0
+      internalID: 2361496900877586442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1878
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85468534812cfa74b93be39a616f18ff
+      internalID: -7082666560899550029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1872
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6db55e0e729346af620e0759511d1
+      internalID: -6528740597293926422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1876
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437be020a6baf224fbd56e69ddd82315
+      internalID: 9095931934923712032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1735
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ad4cab498d8445bd112a062a7379a
+      internalID: -8248259227743078343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1738
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e719a7d7d1d60042a4e2988273524fd
+      internalID: -4379306735562520012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1747
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c6f01a01f4c34aa5653ca242aded0
+      internalID: -7130998807651879951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1736
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5100baca4cb5ab49943a9308ed766c3
+      internalID: -2969653441198280879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1343
+        width: 533
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3e365eb20af047878e2385202345a
+      internalID: -947459204960650038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1266
+        width: 534
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba0d0b24c1a9042bea6da98b71a6c9
+      internalID: 1971940443766070715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1160
+        width: 174
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db749c7935ddee94da74a6e1e1762860
+      internalID: 4787560420742352205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1160
+        width: 174
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a996b0714e2e84f9437d11c9062bd2
+      internalID: 3234424074837002023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_24
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1158
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f1e5e31c704e4398b852b93c551fa
+      internalID: 5887653180497792040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_25
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1167
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc91f2803bdcaee4eb2aa53955eac04d
+      internalID: 8723278985841590698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1184
+        width: 174
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97957df14067df04eb93d2e65d12c5c6
+      internalID: -8850701194045449039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_27
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1162
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981ca15cc9801e947b437c73abe6ea33
+      internalID: 5260335900315695599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1082
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851b07307bd9ff248b0224c5c827422a
+      internalID: 4132529602067710573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1082
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7197aa47d63d448a9c7b4210308b08
+      internalID: 2159727149338508600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1079
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6589a7cf86b4b34190fa12f10760dea
+      internalID: -1311651899779930071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_31
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1067
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425cb3edcf4120d469e11b70513594c2
+      internalID: 3616540648733957413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1084
+        width: 174
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2030d58ee5674742999af6dc8408d77
+      internalID: 741518249551260459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_33
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1062
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd68e86c525ec94bbe563148584458d
+      internalID: 32789456461776036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_34
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 626
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ddb1b2fd097a5489d699febd114a96
+      internalID: 66501426564887696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_35
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 20
+        width: 626
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3ebebb3cf3404c88db9ea4c24d1b6
+      internalID: 2611443656902130506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_36
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 646
+        width: 174
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0449916785df24e9f159cefdbc2239
+      internalID: 4749176858175181575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_37
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 653
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142cd413ebf366d419f0af268df03701
+      internalID: -3960032401962654475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_38
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 644
+        width: 182
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c32682093943439337a5ba80626cb
+      internalID: 1155735515986778629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_39
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 361
+        width: 179
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb57f89bd50c3a84399b6c44461db9ac
+      internalID: 7873361123014793458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_40
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 370
+        width: 161
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b67330b7fd9c4aae9d1e7b1190f50
+      internalID: -5606084420698337593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_41
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 362
+        width: 175
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0578119e082a244b99701cfe55e4599
+      internalID: -1272018098447095247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_42
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 99
+        width: 169
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035b6429ffb476f4b9cdec043bfd3393
+      internalID: -6708724785554458819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_43
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 101
+        width: 170
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747575e134a050943871d13e7fd02222
+      internalID: 6824877384905990536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_44
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 90
+        width: 178
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ea61bc94b5c244bbc6e4b8b04de95
+      internalID: 5781019191834367122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1865
+        width: 138
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1587dd4a61e27f42afd182934af22a8
+      internalID: -5675408168053702557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1728
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2849446965c3cc34e945923369082131
+      internalID: 9157943942901938097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1858
+        width: 146
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e75ba01000664389e183820baac9a
+      internalID: -7674912331846358115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICONOS_JUEGO-01_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1715
+        width: 145
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e94465928372479462ae675765583
+      internalID: 1223590373393721965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

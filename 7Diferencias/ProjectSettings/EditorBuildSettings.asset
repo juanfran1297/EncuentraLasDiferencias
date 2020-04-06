@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 2dd52513c187383468f7cbd7c89ff075
+  - enabled: 1
     path: Assets/Scenes/DriloDurmiendo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/EraTren.unity
+    guid: 999e71a335109dd4daec73c306a74c2b
+  - enabled: 1
+    path: Assets/Scenes/GuauBateria.unity
+    guid: f2d4ef5717381fb4bb55580f06c8bbbb
+  - enabled: 1
+    path: Assets/Scenes/HugaPintando.unity
+    guid: 7f67c6022a14e3745a1d74d50ad669da
+  - enabled: 1
+    path: Assets/Scenes/PeligreBajo.unity
+    guid: 41220874ff540ff4eb9df06676a5b500
+  - enabled: 1
+    path: Assets/Scenes/PomPomFruta.unity
+    guid: fbf2630396549cc44a815e7afda7a5d3
+  - enabled: 1
+    path: Assets/Scenes/RafaTeclado.unity
+    guid: f65594b3f4a133743b369cfa273586bf
   m_configObjects: {}
