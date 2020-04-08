@@ -63,10 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Intentos.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\Exit.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\IntentoScript.cs" />
     <Compile Include="Assets\Scripts\ScriptDiferencia.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <Reference Include="Unity.Timeline.Editor">

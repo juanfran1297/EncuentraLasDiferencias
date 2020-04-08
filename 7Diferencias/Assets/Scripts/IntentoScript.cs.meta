@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 611d9677e8c091046b6e4469ed62170c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - intentosImagen: {fileID: 3864367480871685985, guid: 1ea8c55fd4d65f54c8faf3394abe5b4e,
+      type: 3}
+  - intentosInventory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

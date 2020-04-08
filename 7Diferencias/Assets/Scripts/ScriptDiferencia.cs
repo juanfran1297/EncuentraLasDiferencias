@@ -21,20 +21,20 @@ public class ScriptDiferencia : MonoBehaviour
         thisRenderer.enabled = false;
         encontrada = false;
 
-        gameManager = GameObject.Find("GameManager");
         thisAudio = GetComponent<AudioSource>();
-    }
 
-    private void OnMouseDown()
+        gameManager = GameObject.Find("GameManager");
+    }
+    private void OnMouseUpAsButton()
     {
         if(gameManager.GetComponent<Timer>().derrota == true)
         {
             return;
         }
-
+        thisAudio.Play();
+        Debug.Log("Has pulsado bien");
         thisRenderer.enabled = true;
         encontrada = true;
-        thisAudio.Play();
 
         gameManager.GetComponent<GameManager>().numDiferencias--;
         var colliders = this.GetComponents<Collider2D>();
