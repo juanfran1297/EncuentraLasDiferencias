@@ -63,9 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Intentos.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
+    <Compile Include="Assets\Scripts\Exit.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\ScriptDiferencia.cs" />
+    <Compile Include="Assets\Scripts\Timer.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/GitHub/EncuentraLasDiferencias/7Diferencias/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -87,14 +90,14 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>D:/GitHub/EncuentraLasDiferencias/7Diferencias/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>D:/GitHub/EncuentraLasDiferencias/7Diferencias/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/GitHub/EncuentraLasDiferencias/7Diferencias/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/GitHub/EncuentraLasDiferencias/7Diferencias/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/GitHub/EncuentraLasDiferencias/7Diferencias/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

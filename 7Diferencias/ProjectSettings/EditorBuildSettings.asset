@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RafaTeclado.unity
     guid: f65594b3f4a133743b369cfa273586bf
+  - enabled: 1
+    path: Assets/Scenes/DriloYPeligre.unity
+    guid: 281e26031e3ede24f934a60b50114339
   m_configObjects: {}

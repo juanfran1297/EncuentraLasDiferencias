@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ScriptDiferencia : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class ScriptDiferencia : MonoBehaviour
 
     public GameObject gameManager;
 
+    public AudioSource thisAudio;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -19,12 +22,19 @@ public class ScriptDiferencia : MonoBehaviour
         encontrada = false;
 
         gameManager = GameObject.Find("GameManager");
+        thisAudio = GetComponent<AudioSource>();
     }
 
     private void OnMouseDown()
     {
+        if(gameManager.GetComponent<Timer>().derrota == true)
+        {
+            return;
+        }
+
         thisRenderer.enabled = true;
         encontrada = true;
+        thisAudio.Play();
 
         gameManager.GetComponent<GameManager>().numDiferencias--;
         var colliders = this.GetComponents<Collider2D>();
