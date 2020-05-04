@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{24F0E62C-E735-6F44-4126-313F677EDC8A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScriptDiferencia.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScriptDiferencia.cs" Line="41" Column="11" />
+      <File FileName="Assets/Scripts/IntentoScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7Diferencias" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScriptDiferencia.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="05734bc8-188a-4263-b15c-b1b7ccb26aae" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

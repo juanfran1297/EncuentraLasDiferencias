@@ -6,7 +6,10 @@ using UnityEngine.UI;
 public class ScriptDiferencia : MonoBehaviour
 {
 
-    public SpriteRenderer thisRenderer;
+    //public SpriteRenderer thisRenderer;
+    public Image thisImage;
+
+    public Button thisButton;
 
     public bool encontrada;
 
@@ -17,15 +20,19 @@ public class ScriptDiferencia : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        thisRenderer = GetComponent<SpriteRenderer>();
-        thisRenderer.enabled = false;
+        //thisRenderer = GetComponent<SpriteRenderer>();
+        //thisRenderer.enabled = false;
+        thisImage = GetComponent<Image>();
+        thisImage.enabled = false;
+        thisButton = GetComponent<Button>();
+
         encontrada = false;
 
         thisAudio = GetComponent<AudioSource>();
 
         gameManager = GameObject.Find("GameManager");
     }
-    private void OnMouseUpAsButton()
+    public void Usar()
     {
         if(gameManager.GetComponent<Timer>().derrota == true)
         {
@@ -33,7 +40,9 @@ public class ScriptDiferencia : MonoBehaviour
         }
         thisAudio.Play();
         Debug.Log("Has pulsado bien");
-        thisRenderer.enabled = true;
+        thisImage.enabled = true;
+        thisButton.interactable = false;
+        //thisRenderer.enabled = true;
         encontrada = true;
 
         gameManager.GetComponent<GameManager>().numDiferencias--;
